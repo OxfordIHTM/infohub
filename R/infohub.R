@@ -3,7 +3,13 @@
 #' infohub
 #'
 #' Interactive information hub for the Oxford University International Health
-#' and Tropical Medicine (IHTM) implemented in R
+#' and Tropical Medicine (IHTM) implemented in R.
+#'
+#' The MSc in International Health and Tropical Medicine is a full-time one-year
+#' multidisciplinary and interdisciplinary programme examining major challenges
+#' to the health of populations in resource-limited contexts. The course is
+#' embedded within the Oxford Centre for Tropical Medicine and Global Health,
+#' Nuffield Department of Medicine.
 #'
 #' @docType package
 #' @name infohub
