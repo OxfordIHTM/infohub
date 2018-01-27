@@ -1,9 +1,22 @@
 Package: infohub
-Title: What the Package Does (one line, title case)
+Title: Oxford University MSc in International Health and Tropical Medicine Information Hub
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: c(
+    person("Proochista", "Ariana", email = "proochista@gmail.com", role = "aut"),
+    person("Ernest", "Guevarra", email = "ernestgmd@gmail.com", role = c("aut", "cre")))
+Description: The MSc in International Health and Tropical Medicine is a full-time 
+    one-year multidisciplinary and interdisciplinary programme examining major 
+    challenges to the health of populations in resource-limited contexts. The 
+    course is embedded within the Oxford Centre for Tropical Medicine and Global 
+    Health, Nuffield Department of Medicine.
 Depends: R (>= 3.4.3)
-License: What license is it under?
+License: AGPL-3
 Encoding: UTF-8
 LazyData: true
+Imports: ggmap,
+    leaflet,
+    shiny,
+    shinythemes,
+    rgdal,
+    rgeos,
+    raster
