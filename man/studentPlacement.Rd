@@ -13,6 +13,8 @@
 \item{\code{subject}}{Subject/topic for placement option}
 \item{\code{keywords}}{Keywords/tags identifier for placement option}
 \item{\code{url}}{Website/URL providing further information about placement option}
+\item{\code{lon}}{Longitude}
+\item{\code{lat}}{Latitude}
 }}
 \usage{
 studentPlacement

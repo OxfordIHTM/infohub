@@ -8,6 +8,8 @@
 \describe{
 \item{\code{country}}{Name of country location}
 \item{\code{n}}{Number of students}
+\item{\code{lon}}{Longitude}
+\item{\code{lat}}{Latitude}
 }}
 \usage{
 studentData

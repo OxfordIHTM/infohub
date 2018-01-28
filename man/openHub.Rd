@@ -4,7 +4,10 @@
 \alias{openHub}
 \title{openHub}
 \usage{
-openHub()
+openHub(data)
+}
+\arguments{
+\item{data}{Data for mapping}
 }
 \description{
 Initiate infohub app.
