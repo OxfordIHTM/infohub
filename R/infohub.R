@@ -13,6 +13,9 @@
 #'
 #' @docType package
 #' @name infohub
+#' @importFrom leaflet leafletOutput
+#' @importFrom shinyjs useShinyjs
+#' @importFrom colourpicker colourInput
 #'
 NULL
 
@@ -48,3 +51,17 @@ NULL
 #' \item{\code{url}}{Website/URL providing further information about placement option}
 #' }
 "studentPlacement"
+
+
+################################################################################
+#
+#' mapStyle
+#'
+#' Data on various Mapbox map styles.
+#'
+#' @format A data frame with 2 variables
+#' \describe{
+#' \item{\code{style}}{Map style name}
+#' \item{\code{url}}{Map style URL}
+#' }
+"mapStyle"
