@@ -13,9 +13,15 @@
 #'
 #' @docType package
 #' @name infohub
+#' @importFrom leaflet leaflet %>% leafletOutput addTiles setView renderLeaflet
+#'     leafletProxy addCircles clearShapes addCircleMarkers
+#' @importFrom shiny navbarPage tabPanel icon div tags includeCSS shinyApp
+#'
 #'
 NULL
 
+## quiets concerns of R CMD check re: the variables that appear
+#if(getRversion() >= "2.15.1")  utils::globalVariables(c("studentData", "radius", "pal", "colorData"))
 
 ################################################################################
 #
@@ -27,6 +33,8 @@ NULL
 #' \describe{
 #' \item{\code{country}}{Name of country location}
 #' \item{\code{n}}{Number of students}
+#' \item{\code{lon}}{Longitude}
+#' \item{\code{lat}}{Latitude}
 #' }
 "studentData"
 
@@ -46,5 +54,21 @@ NULL
 #' \item{\code{subject}}{Subject/topic for placement option}
 #' \item{\code{keywords}}{Keywords/tags identifier for placement option}
 #' \item{\code{url}}{Website/URL providing further information about placement option}
+#' \item{\code{lon}}{Longitude}
+#' \item{\code{lat}}{Latitude}
 #' }
 "studentPlacement"
+
+
+################################################################################
+#
+#' mapStyle
+#'
+#' Data on various Mapbox map styles.
+#'
+#' @format A data frame with 2 variables
+#' \describe{
+#' \item{\code{style}}{Map style name}
+#' \item{\code{url}}{Map style URL}
+#' }
+"mapStyle"
