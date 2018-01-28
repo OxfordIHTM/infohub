@@ -10,7 +10,7 @@ library(shiny)
 library(shinythemes)
 library(leaflet)
 library(shinyjs)
-devtools::install_github(infohub); library(infohub)
+devtools::install_github("OxfordIHTM/infohub"); library(infohub)
 #
 #
 #
