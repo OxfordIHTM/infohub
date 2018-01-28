@@ -31,5 +31,5 @@ url <- c("https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/tiles/25
          "https://api.mapbox.com/styles/v1/ernestguevarra/cj6g0tzbd30kc2sph2wyh666m/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXJuZXN0Z3VldmFycmEiLCJhIjoiejRRLXlZdyJ9.sqS1zi0rDH5CIzvcn9SXSg")
 
 mapStyle <- data.frame(style, url)
-write.csv(mapStyle, "data-raw/mapStyle.csv", row.names = FALSE)
+write.csv(mapStyle, "mapStyle.csv", row.names = FALSE)
 devtools::use_data(mapStyle, overwrite = TRUE)
