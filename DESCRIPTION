@@ -19,5 +19,7 @@ Imports: ggmap,
     shinythemes,
     rgdal,
     rgeos,
-    raster
+    raster,
+    shinyjs,
+    colourpicker
 RoxygenNote: 6.0.1
