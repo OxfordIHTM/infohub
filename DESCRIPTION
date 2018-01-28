@@ -16,8 +16,5 @@ LazyData: true
 Imports: ggmap,
     leaflet,
     shiny,
-    shinythemes,
-    rgdal,
-    rgeos,
-    raster
+    shinythemes
 RoxygenNote: 6.0.1
