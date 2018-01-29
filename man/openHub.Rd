@@ -4,7 +4,7 @@
 \alias{openHub}
 \title{openHub}
 \usage{
-openHub(data)
+openHub()
 }
 \arguments{
 \item{data}{Data for mapping}
