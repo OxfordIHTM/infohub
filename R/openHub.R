@@ -76,7 +76,7 @@ openHub <- function() {
         # Add mini-map
         #
         addMiniMap(
-          tiles = providers$Esri.NatGeoWorldMap,
+          tiles = mapStyle$url[mapStyle$style == "mapbox.satellite"], #leaflet::providers$Esri.NatGeoWorldMap,
           toggleDisplay = TRUE) %>%
         #
         # Set view

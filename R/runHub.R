@@ -9,7 +9,7 @@
 #' @export
 #
 runHub <- function() {
-  appDir <- system.file("shiny-server", package = "infohub")
+  appDir <- system.file("infohub", package = "infohub")
 
     if (appDir == "") {
     stop("Could not find example directory. Try re-installing `mypackage`.", call. = FALSE)
