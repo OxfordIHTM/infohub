@@ -3,3 +3,4 @@
 .Rapp.history
 .RData
 .DS_Store
+inst/infohub
