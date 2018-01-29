@@ -16,6 +16,7 @@
 #' @importFrom leaflet leaflet %>% leafletOutput addTiles setView renderLeaflet
 #'     leafletProxy addCircles clearShapes addCircleMarkers
 #' @importFrom shiny navbarPage tabPanel icon div tags includeCSS shinyApp
+#'     absolutePanel
 #'
 #'
 NULL
