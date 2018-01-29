@@ -3,7 +3,7 @@
 #' openHub
 #'
 #' Initiate infohub app.
-#' @param data Data for mapping
+#'
 #' @return NULL
 #' @export
 #'

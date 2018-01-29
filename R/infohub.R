@@ -14,15 +14,17 @@
 #' @docType package
 #' @name infohub
 #' @importFrom leaflet leaflet %>% leafletOutput addTiles setView renderLeaflet
-#'     leafletProxy addCircles clearShapes addCircleMarkers
+#'     leafletProxy addCircles clearShapes addCircleMarkers addMarkers
+#'     markerClusterOptions addLayersControl layersControlOptions addMiniMap
 #' @importFrom shiny navbarPage tabPanel icon div tags includeCSS shinyApp
-#'     absolutePanel
+#'     absolutePanel h4 h6
 #'
 #'
 NULL
 
-## quiets concerns of R CMD check re: the variables that appear
-#if(getRversion() >= "2.15.1")  utils::globalVariables(c("studentData", "radius", "pal", "colorData"))
+# quiets concerns of R CMD check re: the variables that appear
+if(getRversion() >= "2.15.1")
+  utils::globalVariables(c("studentData", "studentPlacement", "providers", "mapStyle"))
 
 ################################################################################
 #

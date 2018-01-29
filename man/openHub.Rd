@@ -6,9 +6,6 @@
 \usage{
 openHub()
 }
-\arguments{
-\item{data}{Data for mapping}
-}
 \description{
 Initiate infohub app.
 }
