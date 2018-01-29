@@ -5,8 +5,6 @@ account: oxfordihtm
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 264928
-bundleId: 1197390
+bundleId: 1197882
 url: https://oxfordihtm.shinyapps.io/infohub/
-when: 1517218073.51662
-asMultiple: FALSE
-asStatic: FALSE
+when: 1517243432.60949
