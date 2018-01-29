@@ -14,7 +14,7 @@ devtools::install_github("OxfordIHTM/infohub"); library(infohub)
 #
 #
 #
-navbarPage(title = "Oxford University MSc in International Health and Tropical Medicine", id = "chosenTab",
+navbarPage(title = "", id = "chosenTab",
   tabPanel(title = "", value = 1, icon = icon(name = "home", class = "fa-lg"),
     div(class = "outer",
         tags$head(
