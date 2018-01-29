@@ -47,7 +47,9 @@ openHub <- function() {
         addCircleMarkers(data = studentData,
                          ~lon, ~lat,
                          radius = 4 * studentData$n,
-                         stroke = FALSE,
+                         stroke = TRUE,
+                         color = "#002147",
+                         weight = 3,
                          fillOpacity = 0.8,
                          fillColor = "#002147",
                          popup = paste("<b>Country:</b> ", studentData$country, "<br/>",
@@ -91,8 +93,8 @@ openHub <- function() {
     tabPanel(title = "", value = 1, icon = icon(name = "home", class = "fa-lg"),
       div(class = "outer",
         tags$head(
-          includeCSS(system.file("shiny-server", "styles.css", package = "infohub")),
-          tags$link(rel = "icon", href = "ox-square-border.gif")
+          includeCSS(system.file("infohub", "styles.css", package = "infohub")),
+          tags$link(rel = "icon", href = system.file("infohub", "ox-square-border.gif", package = "infohub"))
         ),
         leafletOutput("map", width = "100%", height = "100%"),
         #
