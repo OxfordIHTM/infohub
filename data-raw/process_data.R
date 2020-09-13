@@ -8,11 +8,13 @@ library(ggmap)
 
 studentData <- read.csv("data-raw/studentData.csv")
 studentData <- data.frame(studentData, geocode(as.character(studentData$country)))
-devtools::use_data(studentData, overwrite = TRUE)
+studentData <- tibble::tibble(studentData)
+usethis::use_data(studentData, overwrite = TRUE, compress = "xz")
 
 studentPlacement <- read.csv("data-raw/studentPlacements.csv")
 studentPlacement <- data.frame(studentPlacement, geocode(paste(as.character(studentPlacement$location), as.character(studentPlacement$country), sep = ", ")))
-devtools::use_data(studentPlacement, overwrite = TRUE)
+studentPlacement <- tibble::tibble(studentPlacement)
+usethis::use_data(studentPlacement, overwrite = TRUE, compress = "xz")
 
 
 ################################################################################
@@ -41,10 +43,7 @@ url <- c("https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/tiles/25
          "https://api.mapbox.com/styles/v1/ernestguevarra/cjc8urdjr6xs82sl6ntpmfx67/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXJuZXN0Z3VldmFycmEiLCJhIjoiejRRLXlZdyJ9.sqS1zi0rDH5CIzvcn9SXSg")
 
 mapStyle <- data.frame(style, url)
-#mapStyle <- url
-#names(mapStyle) <- style
-
-#mapStyle <- data.frame(style, mapStyle)
-
 write.csv(mapStyle, "data-raw/mapStyle.csv", row.names = FALSE)
-devtools::use_data(mapStyle, overwrite = TRUE)
+
+mapStyle <- tibble::tibble(mapStyle)
+usethis::use_data(mapStyle, overwrite = TRUE, compress = "xz")
