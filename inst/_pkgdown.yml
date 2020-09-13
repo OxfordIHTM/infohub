@@ -1,0 +1,32 @@
+title: infohub
+
+url: https://OxfordIHTM.github.io/infohub
+
+template:
+  params:
+    bootswatch: spacelab
+    ganalytics:
+
+#navbar:
+#  type: inverse
+
+home:
+  #links:
+  #- text:
+  #  href:
+
+reference:
+  - title: Description
+    contents:
+    - infohub
+
+  - title: Shiny application
+    contents:
+    - runHub
+    - openHub
+
+  - title: Datasets
+    contents:
+    - studentData
+    - studentPlacement
+    - mapStyle
