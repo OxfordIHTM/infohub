@@ -27,11 +27,10 @@ if(!require(remotes)) install.packages("remotes")
 remotes::install_github("OxfordIHTM/infohub")
 ```
 
-## How to run
+## Usage
 
 To open the information hub, run the following command in R:
 
 ``` r
-## basic example code
 openHub()
 ```
