@@ -9,11 +9,19 @@ Description: The MSc in International Health and Tropical Medicine is a full-tim
     challenges to the health of populations in resource-limited contexts. The 
     course is embedded within the Oxford Centre for Tropical Medicine and Global 
     Health, Nuffield Department of Medicine.
+License: GPL-3
 Depends: R (>= 3.0.1)
-License: AGPL-3
-Encoding: UTF-8
-LazyData: true
-Imports: leaflet,
+Imports: 
+    leaflet,
     shiny,
-    shinythemes
-RoxygenNote: 6.0.1
+    shinythemes,
+    magrittr
+Encoding: UTF-8
+Language: en-GB
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+URL: https://github.com/OxfordIHTM/infohub
+BugReports: https://github.com/OxfordIHTM/infohub/issues
+Suggests: 
+    spelling
