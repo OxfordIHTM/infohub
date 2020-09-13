@@ -6,3 +6,7 @@
 ^README\.Rmd$
 ^README-.*\.png$
 ^inst/infohub/rsconnect$
+^LICENSE\.md$
+^inst/_pkgdown\.yml$
+^docs$
+^pkgdown$
