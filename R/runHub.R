@@ -1,13 +1,18 @@
 ################################################################################
 #
-#' runHUb
+#'
+#' Initiate infohub Shiny application
 #'
 #' @return NULL
+#'
 #' @examples
-#' #
+#' if(interactive()) runHub()
 #'
 #' @export
+#'
 #
+################################################################################
+
 runHub <- function() {
   appDir <- system.file("infohub", package = "infohub")
 
