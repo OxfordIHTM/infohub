@@ -2,10 +2,14 @@
 % Please edit documentation in R/openHub.R
 \name{openHub}
 \alias{openHub}
-\title{openHub}
+\title{Initiate infohub Shiny application}
 \usage{
 openHub()
 }
 \description{
-Initiate infohub app.
+Initiate infohub Shiny application
+}
+\examples{
+if(interactive()) openHub()
+
 }

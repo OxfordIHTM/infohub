@@ -2,14 +2,14 @@
 % Please edit documentation in R/runHub.R
 \name{runHub}
 \alias{runHub}
-\title{runHUb}
+\title{Initiate infohub Shiny application}
 \usage{
 runHub()
 }
 \description{
-runHUb
+Initiate infohub Shiny application
 }
 \examples{
-#
+if(interactive()) runHub()
 
 }

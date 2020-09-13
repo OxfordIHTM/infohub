@@ -3,16 +3,22 @@
 \docType{data}
 \name{mapStyle}
 \alias{mapStyle}
-\title{mapStyle}
-\format{A data frame with 2 variables
-\describe{
-\item{\code{style}}{Map style name}
-\item{\code{url}}{Map style URL}
-}}
+\title{Data on various Mapbox map styles.}
+\format{
+A tibble with 13 rows and 2 columns:\tabular{ll}{
+   \strong{Variable} \tab \strong{Description} \cr
+   \code{style} \tab Map style name \cr
+   \code{url} \tab Map style URL \cr
+}
+}
 \usage{
 mapStyle
 }
 \description{
 Data on various Mapbox map styles.
+}
+\examples{
+mapStyle
+
 }
 \keyword{datasets}

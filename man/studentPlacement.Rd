@@ -3,23 +3,29 @@
 \docType{data}
 \name{studentPlacement}
 \alias{studentPlacement}
-\title{studentPlacement}
-\format{A data frame with 7 variables:
-\describe{
-\item{\code{location}}{City/Area location of placement option}
-\item{\code{country}}{Country location of placement option}
-\item{\code{org_full}}{Name of organisation providing placement option (full)}
-\item{\code{org_short}}{Name of organisation providing placement option (short)}
-\item{\code{subject}}{Subject/topic for placement option}
-\item{\code{keywords}}{Keywords/tags identifier for placement option}
-\item{\code{url}}{Website/URL providing further information about placement option}
-\item{\code{lon}}{Longitude}
-\item{\code{lat}}{Latitude}
-}}
+\title{Data on various placement options for IHTM MSc students.}
+\format{
+A tibble with 38 rows and 9 columns:\tabular{ll}{
+   \strong{Variable} \tab \strong{Description} \cr
+   \code{location} \tab City/Area location of placement option \cr
+   \code{country} \tab Country location of placement option \cr
+   \code{org_full} \tab Name of organisation providing placement option (full) \cr
+   \code{org_short} \tab Name of organisation providing placement option (short) \cr
+   \code{subject} \tab Subject/topic for placement option \cr
+   \code{keywords} \tab Keywords/tags identifier for placement option \cr
+   \code{url} \tab Website/URL providing further information about placement option \cr
+   \code{lon} \tab Longitude coordinate \cr
+   \code{lat} \tab Latitude coordinate \cr
+}
+}
 \usage{
 studentPlacement
 }
 \description{
 Data on various placement options for IHTM MSc students.
+}
+\examples{
+studentPlacement
+
 }
 \keyword{datasets}

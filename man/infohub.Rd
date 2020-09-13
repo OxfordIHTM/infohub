@@ -4,15 +4,30 @@
 \name{infohub}
 \alias{infohub}
 \alias{infohub-package}
-\title{infohub}
+\title{Interactive information hub for the Oxford University International Health
+and Tropical Medicine (IHTM) implemented in R.}
 \description{
-Interactive information hub for the Oxford University International Health
-and Tropical Medicine (IHTM) implemented in R.
-}
-\details{
 The MSc in International Health and Tropical Medicine is a full-time one-year
 multidisciplinary and interdisciplinary programme examining major challenges
 to the health of populations in resource-limited contexts. The course is
 embedded within the Oxford Centre for Tropical Medicine and Global Health,
 Nuffield Department of Medicine.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/OxfordIHTM/infohub}
+  \item Report bugs at \url{https://github.com/OxfordIHTM/infohub/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Ernest Guevarra \email{ernestgmd@gmail.com}
+
+Authors:
+\itemize{
+  \item Proochista Ariana \email{proochista@gmail.com}
+}
+
+}
+\keyword{internal}

@@ -3,18 +3,24 @@
 \docType{data}
 \name{studentData}
 \alias{studentData}
-\title{studentData}
-\format{A data frame with two variables:
-\describe{
-\item{\code{country}}{Name of country location}
-\item{\code{n}}{Number of students}
-\item{\code{lon}}{Longitude}
-\item{\code{lat}}{Latitude}
-}}
+\title{Data on number of IHTM MSc students per country.}
+\format{
+A data frame with 28 rows and 4 columns:\tabular{ll}{
+   \strong{Variable} \tab \strong{Description} \cr
+   \code{country} \tab Name of country location \cr
+   \code{n} \tab Number of students \cr
+   \code{lon} \tab Longitude coordinate \cr
+   \code{lat} \tab Latitude coordinate \cr
+}
+}
 \usage{
 studentData
 }
 \description{
 Data on number of IHTM MSc students per country.
+}
+\examples{
+studentData
+
 }
 \keyword{datasets}
