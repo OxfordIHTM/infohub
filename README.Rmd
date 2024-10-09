@@ -17,6 +17,8 @@ knitr::opts_chunk$set(
 [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![Travis-CI Build Status](https://travis-ci.org/OxfordIHTM/infohub.svg?branch=master)](https://travis-ci.org/OxfordIHTM/infohub)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/OxfordIHTM/infohub?branch=master&svg=true)](https://ci.appveyor.com/project/OxfordIHTM/infohub)
+[![R-CMD-check](https://github.com/OxfordIHTM/infohub/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/OxfordIHTM/infohub/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/OxfordIHTM/infohub/branch/main/graph/badge.svg)](https://app.codecov.io/gh/OxfordIHTM/infohub?branch=main)
 <!-- badges: end -->
 
 Information Hub for the Oxford University MSc International Health and Tropical Medicine. The application is written in R language for statistical computing and graphics using the Shiny framework for web applications.
