@@ -1,5 +1,3 @@
-################################################################################
-#
 #'
 #' Interactive information hub for the Oxford University International Health
 #' and Tropical Medicine (IHTM) implemented in R.
@@ -21,9 +19,6 @@
 #'   absolutePanel h4 h6
 #' @importFrom magrittr %>%
 #'
-#'
-#
-################################################################################
 "_PACKAGE"
 
 # quiets concerns of R CMD check re: the variables that appear
@@ -31,9 +26,9 @@ if(getRversion() >= "2.15.1") utils::globalVariables(c("studentData",
                                                        "studentPlacement",
                                                        "mapStyle"))
 
-################################################################################
-#
-#' Data on number of IHTM MSc students per country.
+
+#'
+#'  Data on number of IHTM MSc students per country.
 #'
 #' @format A data frame with 28 rows and 4 columns:
 #'
@@ -47,13 +42,10 @@ if(getRversion() >= "2.15.1") utils::globalVariables(c("studentData",
 #' @examples
 #' studentData
 #'
-#
-################################################################################
 "studentData"
 
 
-################################################################################
-#
+#' 
 #' Data on various placement options for IHTM MSc students.
 #'
 #' @format A tibble with 38 rows and 9 columns:
@@ -73,13 +65,10 @@ if(getRversion() >= "2.15.1") utils::globalVariables(c("studentData",
 #' @examples
 #' studentPlacement
 #'
-#
-################################################################################
 "studentPlacement"
 
 
-################################################################################
-#
+#' 
 #' Data on various Mapbox map styles.
 #'
 #' @format A tibble with 13 rows and 2 columns:
@@ -92,6 +81,22 @@ if(getRversion() >= "2.15.1") utils::globalVariables(c("studentData",
 #' @examples
 #' mapStyle
 #'
-#
-################################################################################
 "mapStyle"
+
+#'
+#' List of countries IHTM students come from by school year
+#' 
+#' @format A tibble with 224 rows and 5 rows
+#' 
+#' | **Variable** | **Description** |
+#' | :--- | :--- |
+#' | `cohort` | Cohort/class year |
+#' | `country` | Name of country |
+#' | `iso3c` | Country code |
+#' | `lat` | Latitude coordinate |
+#' | `lon` | Longitude coordinate |
+#' 
+#' @examples
+#' student_country
+#' 
+"student_country"

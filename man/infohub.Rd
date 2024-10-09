@@ -2,8 +2,8 @@
 % Please edit documentation in R/infohub.R
 \docType{package}
 \name{infohub}
-\alias{infohub}
 \alias{infohub-package}
+\alias{infohub}
 \title{Interactive information hub for the Oxford University International Health
 and Tropical Medicine (IHTM) implemented in R.}
 \description{
@@ -22,7 +22,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Ernest Guevarra \email{ernestgmd@gmail.com}
+\strong{Maintainer}: Ernest Guevarra \email{ernest@guevarra.io}
 
 Authors:
 \itemize{
