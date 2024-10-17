@@ -1,5 +1,7 @@
 # Create a student-country list by year ----------------------------------------
 
+library(CoordinateCleaner)
+
 cohort <- c(
   rep("Class 2015-2016", 18),
   rep("Class 2016-2017", 16),
@@ -103,6 +105,26 @@ student_country <- tibble::tibble(cohort, country) |>
       .default = lon
     )
   )
+
+student_country <- tibble::tibble(cohort, country) |>
+  dplyr::mutate(
+    iso3c = countrycode::countrycode(
+      sourcevar = country,
+      origin = "country.name",
+      destination = "iso3c"
+    )
+  ) |>
+  dplyr::left_join(
+    countryref |>
+      dplyr::select(iso3c = iso3, lon = centroid.lon, lat = centroid.lat) |>
+      dplyr::group_by(iso3c) |>
+      dplyr::summarise(
+        iso3c = iso3c[1],
+        lon = lon[1],
+        lat = lat[1]
+      )
+  )
+
 
 write.csv(
   student_country, file = "data-raw/student_country.csv", row.names = FALSE

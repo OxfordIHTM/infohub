@@ -1,225 +1,225 @@
-"cohort","country","iso3c","lat","lon"
-"Class 2015-2016","Australia","AUS",-35.15,149.08
-"Class 2015-2016","South Africa","ZAF",-25.44,28.12
-"Class 2015-2016","Belgium","BEL",50.51,4.21
-"Class 2015-2016","Taiwan","TWN",25.033,121.5654
-"Class 2015-2016","Nigeria","NGA",9.05,7.32
-"Class 2015-2016","Cameroon","CMR",3.5,11.35
-"Class 2015-2016","United States of America","USA",39.91,-77.02
-"Class 2015-2016","Mexico","MEX",19.2,-99.1
-"Class 2015-2016","Syria","SYR",33.3,36.18
-"Class 2015-2016","Nigeria","NGA",9.05,7.32
-"Class 2015-2016","Indonesia","IDN",-6.09,106.49
-"Class 2015-2016","Kenya","KEN",-1.17,36.48
-"Class 2015-2016","Nepal","NPL",27.45,85.2
-"Class 2015-2016","South Africa","ZAF",-25.44,28.12
-"Class 2015-2016","Mexico","MEX",19.2,-99.1
-"Class 2015-2016","Kenya","KEN",-1.17,36.48
-"Class 2015-2016","Kenya","KEN",-1.17,36.48
-"Class 2015-2016","Papua New Guinea","PNG",-9.24,147.08
-"Class 2016-2017","Ghana","GHA",5.35,-0.06
-"Class 2016-2017","Nigeria","NGA",9.05,7.32
-"Class 2016-2017","Australia","AUS",-35.15,149.08
-"Class 2016-2017","Kenya","KEN",-1.17,36.48
-"Class 2016-2017","South Africa","ZAF",-25.44,28.12
-"Class 2016-2017","Tanzania","TZA",-6.08,35.45
-"Class 2016-2017","Liberia","LBR",6.18,-10.47
-"Class 2016-2017","Tanzania","TZA",-6.08,35.45
-"Class 2016-2017","Zimbabwe","ZWE",-17.43,31.02
-"Class 2016-2017","Botswana","BWA",-24.45,25.57
-"Class 2016-2017","Mexico","MEX",19.2,-99.1
-"Class 2016-2017","South Africa","ZAF",-25.44,28.12
-"Class 2016-2017","Iran","IRN",35.44,51.3
-"Class 2016-2017","Cameroon","CMR",3.5,11.35
-"Class 2016-2017","China","CHN",39.55,116.2
-"Class 2016-2017","Myanmar","MMR",16.45,96.2
-"Class 2017-2018","Bangladesh","BGD",23.43,90.26
-"Class 2017-2018","Nigeria","NGA",9.05,7.32
-"Class 2017-2018","Australia","AUS",-35.15,149.08
-"Class 2017-2018","Brazil","BRA",-15.47,-47.55
-"Class 2017-2018","United States of America","USA",39.91,-77.02
-"Class 2017-2018","United Kingdom","GBR",51.36,-0.05
-"Class 2017-2018","Liberia","LBR",6.18,-10.47
-"Class 2017-2018","China","CHN",39.55,116.2
-"Class 2017-2018","Tanzania","TZA",-6.08,35.45
-"Class 2017-2018","South Africa","ZAF",-25.44,28.12
-"Class 2017-2018","Malawi","MWI",-14,33.48
-"Class 2017-2018","Cameroon","CMR",3.5,11.35
-"Class 2017-2018","Nepal","NPL",27.45,85.2
-"Class 2017-2018","Canada","CAN",45.27,-75.42
-"Class 2017-2018","Egypt","EGY",30.01,31.14
-"Class 2017-2018","South Africa","ZAF",-25.44,28.12
-"Class 2017-2018","Australia","AUS",-35.15,149.08
-"Class 2017-2018","Liberia","LBR",6.18,-10.47
-"Class 2018-2019","Nigeria","NGA",9.05,7.32
-"Class 2018-2019","Kyrgyzstan","KGZ",42.54,74.46
-"Class 2018-2019","Syria","SYR",33.3,36.18
-"Class 2018-2019","Australia","AUS",-35.15,149.08
-"Class 2018-2019","Kenya","KEN",-1.17,36.48
-"Class 2018-2019","Cameroon","CMR",3.5,11.35
-"Class 2018-2019","South Africa","ZAF",-25.44,28.12
-"Class 2018-2019","Ecuador","ECU",-0.15,-78.35
-"Class 2018-2019","Malawi","MWI",-14,33.48
-"Class 2018-2019","Vietnam","VNM",21.05,105.55
-"Class 2018-2019","Malaysia","MYS",3.09,101.41
-"Class 2018-2019","Nigeria","NGA",9.05,7.32
-"Class 2018-2019","Timor-Leste","TLS",-8.29,125.34
-"Class 2018-2019","Bangladesh","BGD",23.43,90.26
-"Class 2018-2019","Argentina","ARG",-36.3,-60
-"Class 2018-2019","Fiji","FJI",-18.06,178.3
-"Class 2018-2019","Sudan","SDN",15.31,32.35
-"Class 2018-2019","Nigeria","NGA",9.05,7.32
-"Class 2018-2019","Argentina","ARG",-36.3,-60
-"Class 2018-2019","South Africa","ZAF",-25.44,28.12
-"Class 2018-2019","Kenya","KEN",-1.17,36.48
-"Class 2018-2019","United States of America","USA",39.91,-77.02
-"Class 2018-2019","Cambodia","KHM",11.33,104.55
-"Class 2018-2019","Sierra Leone","SLE",8.3,-13.17
-"Class 2018-2019","Myanmar","MMR",16.45,96.2
-"Class 2018-2019","Morocco","MAR",34.033333,-6.833333
-"Class 2019-2020","Argentina","ARG",-36.3,-60
-"Class 2019-2020","Nigeria","NGA",9.05,7.32
-"Class 2019-2020","Australia","AUS",-35.15,149.08
-"Class 2019-2020","Sierra Leone","SLE",8.3,-13.17
-"Class 2019-2020","Ghana","GHA",5.35,-0.06
-"Class 2019-2020","Papua New Guinea","PNG",-9.24,147.08
-"Class 2019-2020","Eritrea","ERI",15.19,38.55
-"Class 2019-2020","Maldives","MDV",4,73.28
-"Class 2019-2020","Bangladesh","BGD",23.43,90.26
-"Class 2019-2020","United States of America","USA",39.91,-77.02
-"Class 2019-2020","Zimbabwe","ZWE",-17.43,31.02
-"Class 2019-2020","Bangladesh","BGD",23.43,90.26
-"Class 2019-2020","Thailand","THA",13.45,100.35
-"Class 2019-2020","Malaysia","MYS",3.09,101.41
-"Class 2019-2020","South Africa","ZAF",-25.44,28.12
-"Class 2019-2020","Nigeria","NGA",9.05,7.32
-"Class 2019-2020","Pakistan","PAK",33.4,73.1
-"Class 2019-2020","Nigeria","NGA",9.05,7.32
-"Class 2019-2020","Seychelles","SYC",-4.616667,55.45
-"Class 2019-2020","Cameroon","CMR",3.5,11.35
-"Class 2019-2020","Mozambique","MOZ",-25.58,32.32
-"Class 2019-2020","Malawi","MWI",-14,33.48
-"Class 2019-2020","Japan","JPN",35.689722,139.692222
-"Class 2020-2021","Nepal","NPL",27.45,85.2
-"Class 2020-2021","Nigeria","NGA",9.05,7.32
-"Class 2020-2021","Kenya","KEN",-1.17,36.48
-"Class 2020-2021","United Kingdom","GBR",51.36,-0.05
-"Class 2020-2021","United States of America","USA",39.91,-77.02
-"Class 2020-2021","Zimbabwe","ZWE",-17.43,31.02
-"Class 2020-2021","Philippines","PHL",14.4,121.03
-"Class 2020-2021","Nigeria","NGA",9.05,7.32
-"Class 2020-2021","Russia","RUS",55.45,37.35
-"Class 2020-2021","South Africa","ZAF",-25.44,28.12
-"Class 2020-2021","Sierra Leone","SLE",8.3,-13.17
-"Class 2020-2021","Sierra Leone","SLE",8.3,-13.17
-"Class 2020-2021","Bangladesh","BGD",23.43,90.26
-"Class 2020-2021","Sierra Leone","SLE",8.3,-13.17
-"Class 2020-2021","Vietnam","VNM",21.05,105.55
-"Class 2020-2021","Tanzania","TZA",-6.08,35.45
-"Class 2020-2021","Malaysia","MYS",3.09,101.41
-"Class 2020-2021","Nigeria","NGA",9.05,7.32
-"Class 2020-2021","Ghana","GHA",5.35,-0.06
-"Class 2020-2021","United Kingdom","GBR",51.36,-0.05
-"Class 2020-2021","India","IND",28.37,77.13
-"Class 2020-2021","Bangladesh","BGD",23.43,90.26
-"Class 2020-2021","Zambia","ZMB",-15.28,28.16
-"Class 2020-2021","United Kingdom","GBR",51.36,-0.05
-"Class 2020-2021","Zimbabwe","ZWE",-17.43,31.02
-"Class 2020-2021","Belize","BLZ",17.18,-88.3
-"Class 2020-2021","Eritrea","ERI",15.19,38.55
-"Class 2021-2022","Ghana","GHA",5.35,-0.06
-"Class 2021-2022","Indonesia","IDN",-6.09,106.49
-"Class 2021-2022","Nigeria","NGA",9.05,7.32
-"Class 2021-2022","Mozambique","MOZ",-25.58,32.32
-"Class 2021-2022","Nigeria","NGA",9.05,7.32
-"Class 2021-2022","Nigeria","NGA",9.05,7.32
-"Class 2021-2022","Kenya","KEN",-1.17,36.48
-"Class 2021-2022","Cameroon","CMR",3.5,11.35
-"Class 2021-2022","Rwanda","RWA",-1.59,30.04
-"Class 2021-2022","Cameroon","CMR",3.5,11.35
-"Class 2021-2022","Sudan","SDN",15.31,32.35
-"Class 2021-2022","Saint Lucia","LCA",14.02,-60.58
-"Class 2021-2022","Indonesia","IDN",-6.09,106.49
-"Class 2021-2022","South Africa","ZAF",-25.44,28.12
-"Class 2021-2022","Kyrgyzstan","KGZ",42.54,74.46
-"Class 2021-2022","Vietnam","VNM",21.05,105.55
-"Class 2021-2022","Cameroon","CMR",3.5,11.35
-"Class 2021-2022","South Africa","ZAF",-25.44,28.12
-"Class 2021-2022","Malaysia","MYS",3.09,101.41
-"Class 2021-2022","Colombia","COL",4.34,-74
-"Class 2021-2022","India","IND",28.37,77.13
-"Class 2021-2022","India","IND",28.37,77.13
-"Class 2021-2022","Nepal","NPL",27.45,85.2
-"Class 2021-2022","Myanmar","MMR",16.45,96.2
-"Class 2021-2022","Nepal","NPL",27.45,85.2
-"Class 2022-2023","Nigeria","NGA",9.05,7.32
-"Class 2022-2023","India","IND",28.37,77.13
-"Class 2022-2023","Sudan","SDN",15.31,32.35
-"Class 2022-2023","Philippines","PHL",14.4,121.03
-"Class 2022-2023","Burundi","BDI",-3.16,29.18
-"Class 2022-2023","Sudan","SDN",15.31,32.35
-"Class 2022-2023","South Africa","ZAF",-25.44,28.12
-"Class 2022-2023","India","IND",28.37,77.13
-"Class 2022-2023","New Zealand","NZL",-41.19,174.46
-"Class 2022-2023","Kenya","KEN",-1.17,36.48
-"Class 2022-2023","South Sudan","SSD",4.85,31.6
-"Class 2022-2023","Sudan","SDN",15.31,32.35
-"Class 2022-2023","Malawi","MWI",-14,33.48
-"Class 2022-2023","Malawi","MWI",-14,33.48
-"Class 2022-2023","Kenya","KEN",-1.17,36.48
-"Class 2022-2023","Uganda","UGA",0.2,32.3
-"Class 2022-2023","Bangladesh","BGD",23.43,90.26
-"Class 2022-2023","Nigeria","NGA",9.05,7.32
-"Class 2022-2023","Myanmar","MMR",16.45,96.2
-"Class 2022-2023","Indonesia","IDN",-6.09,106.49
-"Class 2022-2023","India","IND",28.37,77.13
-"Class 2022-2023","Vietnam","VNM",21.05,105.55
-"Class 2022-2023","Ghana","GHA",5.35,-0.06
-"Class 2023-2024","Fiji","FJI",-18.06,178.3
-"Class 2023-2024","Eritrea","ERI",15.19,38.55
-"Class 2023-2024","Nigeria","NGA",9.05,7.32
-"Class 2023-2024","South Sudan","SSD",4.85,31.6
-"Class 2023-2024","India","IND",28.37,77.13
-"Class 2023-2024","Indonesia","IDN",-6.09,106.49
-"Class 2023-2024","Zimbabwe","ZWE",-17.43,31.02
-"Class 2023-2024","Nigeria","NGA",9.05,7.32
-"Class 2023-2024","Ghana","GHA",5.35,-0.06
-"Class 2023-2024","Sudan","SDN",15.31,32.35
-"Class 2023-2024","India","IND",28.37,77.13
-"Class 2023-2024","South Africa","ZAF",-25.44,28.12
-"Class 2023-2024","Armenia","ARM",40.1,44.31
-"Class 2023-2024","Nigeria","NGA",9.05,7.32
-"Class 2023-2024","Nigeria","NGA",9.05,7.32
-"Class 2023-2024","Philippines","PHL",14.4,121.03
-"Class 2023-2024","Kenya","KEN",-1.17,36.48
-"Class 2023-2024","Uganda","UGA",0.2,32.3
-"Class 2023-2024","South Africa","ZAF",-25.44,28.12
-"Class 2023-2024","Uganda","UGA",0.2,32.3
-"Class 2023-2024","Malawi","MWI",-14,33.48
-"Class 2023-2024","Sierra Leone","SLE",8.3,-13.17
-"Class 2023-2024","Argentina","ARG",-36.3,-60
-"Class 2023-2024","Democratic Republic of Congo","COD",-4.2,15.15
-"Class 2023-2024","Argentina","ARG",-36.3,-60
-"Class 2023-2024","Syria","SYR",33.3,36.18
-"Class 2023-2024","Taiwan","TWN",25.033,121.5654
-"Class 2023-2024","Peru","PER",-12,-77
-"Class 2023-2024","Malaysia","MYS",3.09,101.41
-"Class 2024-2025","Nigeria","NGA",9.05,7.32
-"Class 2024-2025","Palestine","PSE",32,35.25
-"Class 2024-2025","Liberia","LBR",6.18,-10.47
-"Class 2024-2025","Ghana","GHA",5.35,-0.06
-"Class 2024-2025","Lesotho","LSO",-29.18,27.3
-"Class 2024-2025","Egypt","EGY",30.01,31.14
-"Class 2024-2025","Indonesia","IDN",-6.09,106.49
-"Class 2024-2025","Sierra Leone","SLE",8.3,-13.17
-"Class 2024-2025","Zimbabwe","ZWE",-17.43,31.02
-"Class 2024-2025","Mozambique","MOZ",-25.58,32.32
-"Class 2024-2025","Japan","JPN",35.689722,139.692222
-"Class 2024-2025","Sudan","SDN",15.31,32.35
-"Class 2024-2025","Vietnam","VNM",21.05,105.55
-"Class 2024-2025","Kenya","KEN",-1.17,36.48
-"Class 2024-2025","Indonesia","IDN",-6.09,106.49
-"Class 2024-2025","Sri Lanka","LKA",6.934444,79.842778
-"Class 2024-2025","Ghana","GHA",5.35,-0.06
-"Class 2024-2025","South Sudan","SSD",4.85,31.6
-"Class 2024-2025","China","CHN",39.55,116.2
+"cohort","country","iso3c","lon","lat"
+"Class 2015-2016","Australia","AUS",135,-25
+"Class 2015-2016","South Africa","ZAF",23.121,-30.558
+"Class 2015-2016","Belgium","BEL",4,50.8333
+"Class 2015-2016","Taiwan","TWN",120.6839,24.1469
+"Class 2015-2016","Nigeria","NGA",8,10
+"Class 2015-2016","Cameroon","CMR",12,6
+"Class 2015-2016","United States of America","USA",-97,38
+"Class 2015-2016","Mexico","MEX",-105.795982,30.562072
+"Class 2015-2016","Syria","SYR",38,35
+"Class 2015-2016","Nigeria","NGA",8,10
+"Class 2015-2016","Indonesia","IDN",120,0
+"Class 2015-2016","Kenya","KEN",38,1
+"Class 2015-2016","Nepal","NPL",84,28
+"Class 2015-2016","South Africa","ZAF",23.121,-30.558
+"Class 2015-2016","Mexico","MEX",-105.795982,30.562072
+"Class 2015-2016","Kenya","KEN",38,1
+"Class 2015-2016","Kenya","KEN",38,1
+"Class 2015-2016","Papua New Guinea","PNG",143.459,-5.949
+"Class 2016-2017","Ghana","GHA",-1,8
+"Class 2016-2017","Nigeria","NGA",8,10
+"Class 2016-2017","Australia","AUS",135,-25
+"Class 2016-2017","Kenya","KEN",38,1
+"Class 2016-2017","South Africa","ZAF",23.121,-30.558
+"Class 2016-2017","Tanzania","TZA",35,-6
+"Class 2016-2017","Liberia","LBR",-9.5,6.5
+"Class 2016-2017","Tanzania","TZA",35,-6
+"Class 2016-2017","Zimbabwe","ZWE",30.73189,-20.129123
+"Class 2016-2017","Botswana","BWA",24,-22
+"Class 2016-2017","Mexico","MEX",-105.795982,30.562072
+"Class 2016-2017","South Africa","ZAF",23.121,-30.558
+"Class 2016-2017","Iran","IRN",53,32
+"Class 2016-2017","Cameroon","CMR",12,6
+"Class 2016-2017","China","CHN",105,35
+"Class 2016-2017","Myanmar","MMR",96,21
+"Class 2017-2018","Bangladesh","BGD",90,24
+"Class 2017-2018","Nigeria","NGA",8,10
+"Class 2017-2018","Australia","AUS",135,-25
+"Class 2017-2018","Brazil","BRA",-55,-10
+"Class 2017-2018","United States of America","USA",-97,38
+"Class 2017-2018","United Kingdom","GBR",-2,54
+"Class 2017-2018","Liberia","LBR",-9.5,6.5
+"Class 2017-2018","China","CHN",105,35
+"Class 2017-2018","Tanzania","TZA",35,-6
+"Class 2017-2018","South Africa","ZAF",23.121,-30.558
+"Class 2017-2018","Malawi","MWI",34,-13.5
+"Class 2017-2018","Cameroon","CMR",12,6
+"Class 2017-2018","Nepal","NPL",84,28
+"Class 2017-2018","Canada","CAN",-96,60
+"Class 2017-2018","Egypt","EGY",30,27
+"Class 2017-2018","South Africa","ZAF",23.121,-30.558
+"Class 2017-2018","Australia","AUS",135,-25
+"Class 2017-2018","Liberia","LBR",-9.5,6.5
+"Class 2018-2019","Nigeria","NGA",8,10
+"Class 2018-2019","Kyrgyzstan","KGZ",75,41.5
+"Class 2018-2019","Syria","SYR",38,35
+"Class 2018-2019","Australia","AUS",135,-25
+"Class 2018-2019","Kenya","KEN",38,1
+"Class 2018-2019","Cameroon","CMR",12,6
+"Class 2018-2019","South Africa","ZAF",23.121,-30.558
+"Class 2018-2019","Ecuador","ECU",-78.25,-1.25
+"Class 2018-2019","Malawi","MWI",34,-13.5
+"Class 2018-2019","Vietnam","VNM",107.833333,16.166667
+"Class 2018-2019","Malaysia","MYS",112.5,2.5
+"Class 2018-2019","Nigeria","NGA",8,10
+"Class 2018-2019","Timor-Leste","TLS",126,-8.5833
+"Class 2018-2019","Bangladesh","BGD",90,24
+"Class 2018-2019","Argentina","ARG",-64,-34
+"Class 2018-2019","Fiji","FJI",178,-18
+"Class 2018-2019","Sudan","SDN",30,16
+"Class 2018-2019","Nigeria","NGA",8,10
+"Class 2018-2019","Argentina","ARG",-64,-34
+"Class 2018-2019","South Africa","ZAF",23.121,-30.558
+"Class 2018-2019","Kenya","KEN",38,1
+"Class 2018-2019","United States of America","USA",-97,38
+"Class 2018-2019","Cambodia","KHM",105,13
+"Class 2018-2019","Sierra Leone","SLE",-11.5,8.5
+"Class 2018-2019","Myanmar","MMR",96,21
+"Class 2018-2019","Morocco","MAR",-6,32
+"Class 2019-2020","Argentina","ARG",-64,-34
+"Class 2019-2020","Nigeria","NGA",8,10
+"Class 2019-2020","Australia","AUS",135,-25
+"Class 2019-2020","Sierra Leone","SLE",-11.5,8.5
+"Class 2019-2020","Ghana","GHA",-1,8
+"Class 2019-2020","Papua New Guinea","PNG",143.459,-5.949
+"Class 2019-2020","Eritrea","ERI",39,15
+"Class 2019-2020","Maldives","MDV",73,3.2
+"Class 2019-2020","Bangladesh","BGD",90,24
+"Class 2019-2020","United States of America","USA",-97,38
+"Class 2019-2020","Zimbabwe","ZWE",30.73189,-20.129123
+"Class 2019-2020","Bangladesh","BGD",90,24
+"Class 2019-2020","Thailand","THA",101,15.5
+"Class 2019-2020","Malaysia","MYS",112.5,2.5
+"Class 2019-2020","South Africa","ZAF",23.121,-30.558
+"Class 2019-2020","Nigeria","NGA",8,10
+"Class 2019-2020","Pakistan","PAK",70,30
+"Class 2019-2020","Nigeria","NGA",8,10
+"Class 2019-2020","Seychelles","SYC",55.474,-4.647
+"Class 2019-2020","Cameroon","CMR",12,6
+"Class 2019-2020","Mozambique","MOZ",35,-18.25
+"Class 2019-2020","Malawi","MWI",34,-13.5
+"Class 2019-2020","Japan","JPN",138,36
+"Class 2020-2021","Nepal","NPL",84,28
+"Class 2020-2021","Nigeria","NGA",8,10
+"Class 2020-2021","Kenya","KEN",38,1
+"Class 2020-2021","United Kingdom","GBR",-2,54
+"Class 2020-2021","United States of America","USA",-97,38
+"Class 2020-2021","Zimbabwe","ZWE",30.73189,-20.129123
+"Class 2020-2021","Philippines","PHL",122,13
+"Class 2020-2021","Nigeria","NGA",8,10
+"Class 2020-2021","Russia","RUS",100,60
+"Class 2020-2021","South Africa","ZAF",23.121,-30.558
+"Class 2020-2021","Sierra Leone","SLE",-11.5,8.5
+"Class 2020-2021","Sierra Leone","SLE",-11.5,8.5
+"Class 2020-2021","Bangladesh","BGD",90,24
+"Class 2020-2021","Sierra Leone","SLE",-11.5,8.5
+"Class 2020-2021","Vietnam","VNM",107.833333,16.166667
+"Class 2020-2021","Tanzania","TZA",35,-6
+"Class 2020-2021","Malaysia","MYS",112.5,2.5
+"Class 2020-2021","Nigeria","NGA",8,10
+"Class 2020-2021","Ghana","GHA",-1,8
+"Class 2020-2021","United Kingdom","GBR",-2,54
+"Class 2020-2021","India","IND",77,20
+"Class 2020-2021","Bangladesh","BGD",90,24
+"Class 2020-2021","Zambia","ZMB",28.5,-14.33333
+"Class 2020-2021","United Kingdom","GBR",-2,54
+"Class 2020-2021","Zimbabwe","ZWE",30.73189,-20.129123
+"Class 2020-2021","Belize","BLZ",-88.75,17.25
+"Class 2020-2021","Eritrea","ERI",39,15
+"Class 2021-2022","Ghana","GHA",-1,8
+"Class 2021-2022","Indonesia","IDN",120,0
+"Class 2021-2022","Nigeria","NGA",8,10
+"Class 2021-2022","Mozambique","MOZ",35,-18.25
+"Class 2021-2022","Nigeria","NGA",8,10
+"Class 2021-2022","Nigeria","NGA",8,10
+"Class 2021-2022","Kenya","KEN",38,1
+"Class 2021-2022","Cameroon","CMR",12,6
+"Class 2021-2022","Rwanda","RWA",30,-2
+"Class 2021-2022","Cameroon","CMR",12,6
+"Class 2021-2022","Sudan","SDN",30,16
+"Class 2021-2022","Saint Lucia","LCA",-60.969,13.898
+"Class 2021-2022","Indonesia","IDN",120,0
+"Class 2021-2022","South Africa","ZAF",23.121,-30.558
+"Class 2021-2022","Kyrgyzstan","KGZ",75,41.5
+"Class 2021-2022","Vietnam","VNM",107.833333,16.166667
+"Class 2021-2022","Cameroon","CMR",12,6
+"Class 2021-2022","South Africa","ZAF",23.121,-30.558
+"Class 2021-2022","Malaysia","MYS",112.5,2.5
+"Class 2021-2022","Colombia","COL",-74.8167,3.4
+"Class 2021-2022","India","IND",77,20
+"Class 2021-2022","India","IND",77,20
+"Class 2021-2022","Nepal","NPL",84,28
+"Class 2021-2022","Myanmar","MMR",96,21
+"Class 2021-2022","Nepal","NPL",84,28
+"Class 2022-2023","Nigeria","NGA",8,10
+"Class 2022-2023","India","IND",77,20
+"Class 2022-2023","Sudan","SDN",30,16
+"Class 2022-2023","Philippines","PHL",122,13
+"Class 2022-2023","Burundi","BDI",30,-3.5
+"Class 2022-2023","Sudan","SDN",30,16
+"Class 2022-2023","South Africa","ZAF",23.121,-30.558
+"Class 2022-2023","India","IND",77,20
+"Class 2022-2023","New Zealand","NZL",174,-41
+"Class 2022-2023","Kenya","KEN",38,1
+"Class 2022-2023","South Sudan","SSD",30,8
+"Class 2022-2023","Sudan","SDN",30,16
+"Class 2022-2023","Malawi","MWI",34,-13.5
+"Class 2022-2023","Malawi","MWI",34,-13.5
+"Class 2022-2023","Kenya","KEN",38,1
+"Class 2022-2023","Uganda","UGA",32.5,1.25
+"Class 2022-2023","Bangladesh","BGD",90,24
+"Class 2022-2023","Nigeria","NGA",8,10
+"Class 2022-2023","Myanmar","MMR",96,21
+"Class 2022-2023","Indonesia","IDN",120,0
+"Class 2022-2023","India","IND",77,20
+"Class 2022-2023","Vietnam","VNM",107.833333,16.166667
+"Class 2022-2023","Ghana","GHA",-1,8
+"Class 2023-2024","Fiji","FJI",178,-18
+"Class 2023-2024","Eritrea","ERI",39,15
+"Class 2023-2024","Nigeria","NGA",8,10
+"Class 2023-2024","South Sudan","SSD",30,8
+"Class 2023-2024","India","IND",77,20
+"Class 2023-2024","Indonesia","IDN",120,0
+"Class 2023-2024","Zimbabwe","ZWE",30.73189,-20.129123
+"Class 2023-2024","Nigeria","NGA",8,10
+"Class 2023-2024","Ghana","GHA",-1,8
+"Class 2023-2024","Sudan","SDN",30,16
+"Class 2023-2024","India","IND",77,20
+"Class 2023-2024","South Africa","ZAF",23.121,-30.558
+"Class 2023-2024","Armenia","ARM",45,40.25
+"Class 2023-2024","Nigeria","NGA",8,10
+"Class 2023-2024","Nigeria","NGA",8,10
+"Class 2023-2024","Philippines","PHL",122,13
+"Class 2023-2024","Kenya","KEN",38,1
+"Class 2023-2024","Uganda","UGA",32.5,1.25
+"Class 2023-2024","South Africa","ZAF",23.121,-30.558
+"Class 2023-2024","Uganda","UGA",32.5,1.25
+"Class 2023-2024","Malawi","MWI",34,-13.5
+"Class 2023-2024","Sierra Leone","SLE",-11.5,8.5
+"Class 2023-2024","Argentina","ARG",-64,-34
+"Class 2023-2024","Democratic Republic of Congo","COD",25,0.0166666666667
+"Class 2023-2024","Argentina","ARG",-64,-34
+"Class 2023-2024","Syria","SYR",38,35
+"Class 2023-2024","Taiwan","TWN",120.6839,24.1469
+"Class 2023-2024","Peru","PER",-75.25,-10
+"Class 2023-2024","Malaysia","MYS",112.5,2.5
+"Class 2024-2025","Nigeria","NGA",8,10
+"Class 2024-2025","Palestine","PSE",35.278,32.037
+"Class 2024-2025","Liberia","LBR",-9.5,6.5
+"Class 2024-2025","Ghana","GHA",-1,8
+"Class 2024-2025","Lesotho","LSO",28.25,-29.5
+"Class 2024-2025","Egypt","EGY",30,27
+"Class 2024-2025","Indonesia","IDN",120,0
+"Class 2024-2025","Sierra Leone","SLE",-11.5,8.5
+"Class 2024-2025","Zimbabwe","ZWE",30.73189,-20.129123
+"Class 2024-2025","Mozambique","MOZ",35,-18.25
+"Class 2024-2025","Japan","JPN",138,36
+"Class 2024-2025","Sudan","SDN",30,16
+"Class 2024-2025","Vietnam","VNM",107.833333,16.166667
+"Class 2024-2025","Kenya","KEN",38,1
+"Class 2024-2025","Indonesia","IDN",120,0
+"Class 2024-2025","Sri Lanka","LKA",81,7
+"Class 2024-2025","Ghana","GHA",-1,8
+"Class 2024-2025","South Sudan","SSD",30,8
+"Class 2024-2025","China","CHN",105,35
